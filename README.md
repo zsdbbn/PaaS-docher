@@ -89,11 +89,8 @@
 
 <img width="1340" alt="image" src="https://user-images.githubusercontent.com/92626977/215122040-7f3ba11b-4875-412c-a9c9-fefa05e336c5.png">
 
-## 在 Doprax 部署重点
 
-这里只作重点的展示，更详细可以参考项目: https://github.com/fscarmen2/V2-for-Doprax
-  
-<img width="1663" alt="image" src="https://user-images.githubusercontent.com/92626977/214801019-a1e9cf5d-67f0-49c5-956b-927f50bbb207.png">
 
-<img width="1000" alt="image" src="https://user-images.githubusercontent.com/92626977/214807633-18b1a1fe-a3b7-4f9b-99bd-0ef56e3a259c.png">
+
+
 
